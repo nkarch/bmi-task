@@ -1,8 +1,22 @@
-# React + Vite
+# BMI Solution Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is Nick Karch's submission for BMI Solution recruitment process's take-home project.
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone the repo and `npm install`
+
+## Run Frontend and Backend
+
+`npm run dev`
+
+-   "concurrently" runs frontend (vite) and backend (json-server) simultaneously
+
+## Project Structure and misc notes
+
+-   Frontend: React with Vite (JavaScript)
+    -   Tailwind utility classes are used for primary styling
+    -   React Prop Types are used to satisfy eslint, given non-TypeScript project config
+    -   UUID lib is used for dynamic ID creation during new Artist addition
+-   Backend/DB: Static JSON served with json-server
+-   Artist creation/removal does not write to database and so this state will not persist over browser refreshes

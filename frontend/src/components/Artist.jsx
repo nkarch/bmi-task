@@ -6,7 +6,7 @@ function Artist({ artist, active, setCurrentArtist }) {
     return (
         <button
             onClick={() => setCurrentArtist(id)}
-            className={`bg-gray-200 text-gray-950 py-6 px-14 rounded-md shadow hover:border-green-500 focus:outline-none focus:border-green-500 ${
+            className={`bg-gray-200 text-gray-950 py-6 px-14 rounded-md shadow border hover:border-green-500 focus:outline-none focus:border-green-500 ${
                 active && "bg-green-200 border-green-500"
             }`}
         >

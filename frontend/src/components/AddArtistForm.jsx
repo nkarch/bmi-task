@@ -17,6 +17,7 @@ function AddArtistForm({ addArtist, hideAddArtistForm }) {
                         required
                     />
                 </label>
+
                 <label className='flex justify-between'>
                     Nationality:
                     <input
