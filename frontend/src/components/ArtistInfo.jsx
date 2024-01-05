@@ -147,7 +147,9 @@ const fetchSongs = async (artistId) => {
         const tasks = await res.json();
         return tasks;
     } catch (error) {
-        console.error("An error occurred while fetching tasks");
+        console.error(
+            "An error occurred while fetching artist of id: " + artistId
+        );
         throw error;
     }
 };

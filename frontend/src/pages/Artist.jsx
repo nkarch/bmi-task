@@ -10,7 +10,6 @@ function Artist() {
         const initializeArtist = async () => {
             const artist = await fetchArtist(routeParams.id);
             setCurrentArtist(artist);
-            console.log(artist);
         };
 
         initializeArtist();
@@ -31,7 +30,7 @@ const fetchArtist = async (id) => {
         const tasks = await res.json();
         return tasks;
     } catch (error) {
-        console.error("An error occurred while fetching artist");
+        console.error("An error occurred while fetching artist of id: " + id);
         throw error;
     }
 };
