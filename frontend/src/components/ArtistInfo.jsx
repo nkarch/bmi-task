@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 import PropTypes from "prop-types";
 
 function ArtistInfo({ currentArtist: artist }) {
@@ -68,6 +69,14 @@ function ArtistInfo({ currentArtist: artist }) {
                                 ))}
                             </ul>
                         </div>
+
+                        <Link
+                            className='ml-auto new-tab p-1 hover:opacity-50'
+                            to={`/artist/${artist.id}`}
+                            target='_blank'
+                        >
+                            <span className='sr-only'>Open in new tab</span>
+                        </Link>
                     </div>
                 ) : (
                     `No songs by ${artist.name} found`

@@ -1,20 +1,18 @@
-import { useState } from "react";
+import { Routes, Route, Navigate } from "react-router-dom";
 
 import "./App.css";
 
-import ArtistList from "./components/ArtistList.jsx";
-import ArtistInfo from "./components/ArtistInfo.jsx";
+import Home from "./pages/Home.jsx";
+import Artist from "./pages/Artist.jsx";
 
 function App() {
-    const [currentArtist, setCurrentArtist] = useState(null);
-
     return (
         <div className='min-w-full flex gap-3'>
-            <ArtistList
-                currentArtist={currentArtist}
-                setCurrentArtist={setCurrentArtist}
-            />
-            <ArtistInfo currentArtist={currentArtist} />
+            <Routes>
+                <Route path='/' element={<Home />} />
+                <Route path='/artist' element={<Navigate to='/' />} />
+                <Route path='/artist/:id' element={<Artist />} />
+            </Routes>
         </div>
     );
 }
