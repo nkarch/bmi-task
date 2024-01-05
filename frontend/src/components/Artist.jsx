@@ -1,7 +1,5 @@
 import PropTypes from "prop-types";
 
-// active={currentArtist?.id === artist.id}
-
 function Artist({ artist, active, setCurrentArtist }) {
     const { id, name, nationality, age } = artist;
 
