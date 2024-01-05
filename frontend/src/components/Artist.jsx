@@ -4,7 +4,7 @@ function Artist({ name, nationality, age, active }) {
     return (
         <div
             className={`bg-slate-200 text-slate-950 py-6 px-14 rounded-md shadow ${
-                active && "active"
+                active && "bg-green-200 border-green-500 border-solid border-2"
             }`}
         >
             <dl>
@@ -30,7 +30,7 @@ function Artist({ name, nationality, age, active }) {
 Artist.propTypes = {
     name: PropTypes.string,
     nationality: PropTypes.string,
-    age: PropTypes.number,
+    age: PropTypes.string,
     active: PropTypes.bool,
 };
 export default Artist;
