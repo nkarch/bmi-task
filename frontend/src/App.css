@@ -1,6 +1,46 @@
 #root {
-    max-width: 1280px;
     margin: 0 auto;
     padding: 2rem;
-    text-align: center;
+    padding-right: 0;
+}
+
+.hamburger::before,
+.hamburger::after {
+    display: block;
+    content: "";
+    width: 1rem;
+}
+
+.hamburger::before {
+    height: 0.875rem;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.hamburger::after {
+    background: black;
+    height: 1px;
+    top: 50%;
+    position: absolute;
+}
+
+.close-btn::before,
+.close-btn::after {
+    content: "";
+    transform-origin: center;
+    position: absolute;
+    width: 60%;
+    height: 1px;
+    background: black;
+    display: block;
+    top: 50%;
+    left: 50%;
+}
+
+.close-btn::before {
+    transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.close-btn::after {
+    transform: translate(-50%, -50%) rotate(-45deg);
 }

@@ -30,5 +30,67 @@
             "nationality": "Canadian",
             "age": "19"
         }
+    ],
+    "songs": [
+        {
+            "id": 0,
+            "artist_id": 0,
+            "title": "Locked Out of Heaven",
+            "lyrics": "[Intro]\n(One, two, one, two, three)\nAw, yeah, yeah\nAw, yeah, yeah, yeah, yeah (Uh)\nAw, yeah, yeah\nAw, yeah, yeah, yeah, yeah (Uh)\n\n[Verse 1]\nNever had much faith in love or miracles (Uh)\nNever wanna put my heart on the line (Uh)\nBut swimmin' in your water's somethin' spiritual (Uh)\nI'm born again every time you spend the night, —ight (Uh)\n\n[Pre-Chorus]\n'Cause your sex takes me to paradise\nYeah, your sex takes me to paradise\nAnd it shows\nYeah, yeah, yeah\n\n[Chorus]\n'Cause you make me feel like\nI've been locked outta heaven\nFor too long\nFor too long\nYeah, you make me feel like\nI've been locked outta heaven\nFor too long\nFor too long\nSee Bruno Mars Live\nGet tickets as low as $96\n\nYou might also like\n“Slut!” (Taylor’s Version) [From The Vault]\nTaylor Swift\nAll I Want for Christmas Is You\nMariah Carey\nThe Twelve Days of Christmas\nChristmas Songs\n[Post-Chorus]\nAw, yeah, yeah, yeah, yeah (Uh)\nAw, yeah, yeah\nAw, yeah, yeah, yeah, yeah (Uh)\n\n[Verse 2]\nYou bring me to my knees, you make me testify (Uh)\nYou can make a sinner change his ways (Uh)\nOpen up your gates 'cause I can't wait to see the light (Uh)\nAnd right there is where I wanna stay, —ay (Uh)\n\n[Pre-Chorus]\n'Cause your sex takes me to paradise\nYeah, your sex takes me to paradise\nAnd it shows\nYeah, yeah, yeah\n\n[Chorus]\n'Cause you make me feel like\nI've been locked outta heaven\nFor too long\nFor too long\nYeah, you make me feel like\nI've been locked outta heaven\nFor too long\nFor too long\n\n\n[Bridge]\nOh, woah, woah, woah\nYeah, yeah, yeah\nCan I just stay here?\nSpend the rest of my days here?\nOh, woah, woah, woah\nYeah, yeah, yeah\nCan I just stay here?\nSpend the rest of my days here?\n\n[Chorus]\n'Cause you make me feel like\nI've been locked outta heaven\nFor too long\nFor too long\nYeah, you make me feel like\nI've been locked outta heaven\nFor too long\nFor too long\n\n[Post-Chorus]\nAw, yeah, yeah, yeah, yeah (Uh)\nAw, yeah, yeah\nAw, yeah, yeah, yeah, yeah (Uh)",
+            "details": {
+                "composer": "Composer Name",
+                "producer": "Producer Name",
+                "prod_date": "Production Date",
+                "awards": "Awards"
+            }
+        },
+        {
+            "id": 1,
+            "artist_id": 0,
+            "title": "24K Magic",
+            "lyrics": "Tonight\nI just want to take you higher\nThrow your hands up in the sky\nLet's set this party off right\nPlayers, put yo' pinky rings up to the moon\nGirls, what y'all trying to do?\nTwenty four karat magic in the air\nHead to toe so player\nLook out, uh\nPop pop, it's show time (show time)\nShow time (show time)\nGuess who's back again?\nOh they don't know? (Go on tell 'em)\nOh they don't know? (Go on tell 'em)\nI bet they know soon as we walk in (showin' up)\nWearing Cuban links (ya)\nDesigner minks (ya)\nInglewood's finest shoes (whoop, whoop)\nDon't look too hard might hurt ya'self\nKnown to give the color red the blues\nOh shit, I'm a dangerous man with some money in my pocket (keep up)\nSo many pretty girls around me and they waking up the rocket (keep up)\nWhy you mad, fix ya face, ain't my fault y'all be jocking (keep up)\nPlayers only, come on\nPut your pinky rings up to the moon\nGirls, what y'all trying to do?\nTwenty four karat magic in the air\nHead to toe so player\nUh, look out!\nSecond verse for the hustlas (hustlas) gangstas (gangstas)\nBad bitches and ya ugly ass friends (haha)\nCan I preach? (Uh oh) can I preach? (Uh oh)\nI gotta show 'em how a pimp get it in\nFirst, take your sip (sip), do your dip (dip)\nSpend your money like money ain't shit (whoop, whoop)\nWe too fresh\nGot to blame in on Jesus\nHashtag blessed, they ain't ready for me\nI'm a dangerous man with some money in my pocket (keep up)\nSo many pretty girls around me and they waking up the rocket (keep up)\nWhy you mad, fix ya face, ain't my fault y'all be jocking (keep up)\nPlayers only, come on\nPut your pinky rings up to the moon\nHey girls\nWhat y'all trying to do? (What y'all trying to do?)\nTwenty four karat magic in the air\nHead to toe so player\nUh, look out!\neverywhere I go they be like\nOoh, so player\nEverywhere I go they be like (ooh, so player, ooh)\nOh everywhere I go they be like (ooh, so player, ooh)\nNow, now, now watch me break it down like (uh)\nTwenty four karat, twenty four karat magic\nWhat's that sound (twenty four karat, twenty four karat magic)\nCome on now\nTwenty four karat, twenty four karat magic\nDon't fight the feeling, invite the feeling\nJust put your pinky rings up to the moon\nGirls, what y'all trying to do? (Tell me what y'all trying to do)\nTwenty four karat magic in the air\nHead to toe so player (hands up!)\nPut your pinky rings up to the moon\nGirls, what y'all trying to do? (Do)\nTwenty four karat magic in the air\nHead to toe so player (twenty four karat) uh, look out",
+            "details": {
+                "composer": "Composer Name",
+                "producer": "Producer Name",
+                "prod_date": "Production Date",
+                "awards": "Awards"
+            }
+        },
+        {
+            "id": 2,
+            "artist_id": 0,
+            "title": "The Lazy Song",
+            "lyrics": "Today, I don't feel like doing anything\nI just wanna lay in my bed\nDon't feel like picking up my phone\nSo leave a message at the tone\n'Cause today, I swear I'm not doing anything\nUh, I'm gonna kick my feet up then stare at the fan\nTurn the TV on, throw my hand in my pants\nNobody's gon' tell me, I can't, nah\nI'll be lounging on the couch, just chilling in my Snuggie\nClick to MTV, so they can teach me how to dougie\n'Cause in my castle, I'm the freaking man\nOh-oh, yes, I said it, I said it\nI said it 'cause I can\nToday, I don't feel like doing anything\nI just wanna lay in my bed\nDon't feel like picking up my phone\nSo leave a message at the tone\n'Cause today, I swear I'm not doing anything\nNothing at all (ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh)\nNothing at all (ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh)\nTomorrow, I'll wake up, do some P90X\nMeet a really nice girl, have some really nice sex\nAnd she's gonna scream out, \"This is great\"\n(Oh, my God, this is great) yeah\nI might mess around and get my college degree\nI bet my old man will be so proud of me\nBut sorry, pops, you'll just have to wait\nOh-oh-oh, yes, I said it, I said it\nI said it 'cause I can\nToday, I don't feel like doing anything\nI just wanna lay in my bed\nDon't feel like picking up my phone\nSo leave a message at the tone\n'Cause today, I swear I'm not doing anything\nNo, I ain't gonna comb my hair\n'Cause I ain't going anywhere\nNo, no, no, no, no, no, no, no, no, oh\nI'll just strut in my birthday suit\nAnd let everything hang loose\nYeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah\nOh-oh-oh, today, I don't feel like doing anything\nI just wanna lay in my bed\nDon't feel like picking up my phone\nSo leave a message at the tone\n'Cause today, I swear I'm not doing anything\nNothing at all (ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh)\nNothing at all (ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh)\nNothing at all",
+            "details": {
+                "composer": "Composer Name",
+                "producer": "Producer Name",
+                "prod_date": "Production Date",
+                "awards": "Awards"
+            }
+        },
+        {
+            "id": 3,
+            "artist_id": 1,
+            "title": "Rolling in the Deep",
+            "lyrics": "There's a fire starting in my heart\nReaching a fever pitch, it's bringing me out the dark\nFinally I can see you crystal clear\nGo ahead and sell me out and I'll lay your ship bare\nSee how I'll leave with every piece of you\nDon't underestimate the things that I will do\nThere's a fire starting in my heart\nReaching a fever pitch and it's bringing me out the dark\nThe scars of your love remind me of us\nThey keep me thinking that we almost had it all\nThe scars of your love they leave me breathless\nI can't help feeling\nWe could've had it all (you're gonna wish you)\n(Never had met me)\nRolling in the deep (tears are gonna fall)\n(Rolling in the deep)\nYou had my heart inside (you're gonna wish you)\nOf your hands (never had met me)\nAnd you played it (tears are gonna fall)\nTo the beat (rolling in the deep)\nBaby, I have no story to be told\nBut I've heard one on you, now I'm gonna make your head burn\nThink of me in the depths of your despair\nMake a home down there, as mine sure won't be shared\nThe scars of your love (never had met me)\nRemind me of us (tears are gonna fall)\nThey keep me thinking (rolling in the deep)\nThat we almost had it all (you're gonna wish you)\nThe scars of your love (never had met me)\nThey leave me breathless (tears are gonna fall)\nI can't help feeling (rolling in the deep)\nWe could've had it all (you're gonna wish you)\n(Never had met me)\nRolling in the deep (tears are gonna fall)\n(Rolling in the deep)\nYou had my heart inside (you're gonna wish you)\nOf your hands (never had met me)\nAnd you played it (tears are gonna fall)\nTo the beat (rolling in the deep)\nWe could've had it all\nRolling in the deep\nYou had my heart inside of your hand\nBut you played it with a beating\nThrow your soul through every open door (whoa)\nCount your blessings to find what you look for (whoa)\nTurn my sorrow into treasured gold (whoa)\nYou pay me back in kind and reap just what you've sown\nWe could've had it all (tears are gonna fall, rolling in the deep)\nWe could've had it all (you're gonna wish you never had met me)\nIt all, it all, it all (tears are gonna fall, rolling in the deep)\nWe could've had it all (you're gonna wish you)\n(Never had met me)\nRolling in the deep (tears are gonna fall)\n(Rolling in the deep)\nYou had my heart inside (you're gonna wish you)\nOf your hands (never had met me)\nAnd you played it (tears are gonna fall)\nTo the beat (rolling in the deep)\nCould've had it all (you're gonna wish you)\n(Never had met me)\nRolling in the deep (tears are gonna fall)\n(Rolling in the deep)\nYou had my heart inside (you're gonna wish you)\nOf your hands (never had met me)\nBut you played it, you played it, you played it\nYou played it to the beat",
+            "details": {
+                "composer": "Composer Name",
+                "producer": "Producer Name",
+                "prod_date": "Production Date",
+                "awards": "Awards"
+            }
+        },
+        {
+            "id": 4,
+            "artist_id": 1,
+            "title": "Hello",
+            "lyrics": "Hello, it's me\nI was wondering if after all these years you'd like to meet\nTo go over everything\nThey say that time's supposed to heal ya, but I ain't done much healing\nHello, can you hear me?\nI'm in California dreaming about who we used to be\nWhen we were younger and free\nI've forgotten how it felt before the world fell at our feet\nThere's such a difference between us\nAnd a million miles\nHello from the other side\nI must've called a thousand times\nTo tell you I'm sorry for everything that I've done\nBut when I call, you never seem to be home\nHello from the outside\nAt least I can say that I've tried\nTo tell you I'm sorry for breaking your heart\nBut it don't matter, it clearly doesn't tear you apart anymore\nHello, how are you?\nIt's so typical of me to talk about myself, I'm sorry\nI hope that you're well\nDid you ever make it out of that town where nothing ever happened?\nIt's no secret that the both of us\nAre running out of time\nSo hello from the other side (other side)\nI must've called a thousand times (thousand times)\nTo tell you I'm sorry for everything that I've done\nBut when I call, you never seem to be home\nHello from the outside (outside)\nAt least I can say that I've tried (I've tried)\nTo tell you I'm sorry for breaking your heart\nBut it don't matter, it clearly doesn't tear you apart anymore\nOoh (lows, lows, lows, lows), anymore\n(Highs, highs, highs, highs)\nOoh (lows, lows, lows, lows), anymore\n(Highs, highs, highs, highs)\nOoh (lows, lows, lows, lows), anymore\n(Highs, highs, highs, highs)\nAnymore (lows, lows, lows, lows)\nHello from the other side (other side)\nI must've called a thousand times (thousand times)\nTo tell you I'm sorry for everything that I've done\nBut when I call, you never seem to be home\nHello from the outside (outside)\nAt least I can say that I've tried (I've tried)\nTo tell you I'm sorry for breaking your heart\nBut it don't matter, it clearly doesn't tear you apart anymore",
+            "details": {
+                "composer": "Composer Name",
+                "producer": "Producer Name",
+                "prod_date": "Production Date",
+                "awards": "Awards"
+            }
+        }
     ]
 }

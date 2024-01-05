@@ -6,8 +6,8 @@ function Artist({ artist, active, setCurrentArtist }) {
     return (
         <button
             onClick={() => setCurrentArtist(id)}
-            className={`bg-slate-200 text-slate-950 py-6 px-14 rounded-md shadow hover:border-green-500 focus:outline-none focus:border-green-500 ${
-                active && "bg-green-200 border-green-500 border-solid"
+            className={`bg-gray-200 text-gray-950 py-6 px-14 rounded-md shadow hover:border-green-500 focus:outline-none focus:border-green-500 ${
+                active && "bg-green-200 border-green-500"
             }`}
         >
             <dl>

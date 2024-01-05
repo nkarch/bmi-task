@@ -14,10 +14,10 @@ function ArtistList({ currentArtist, setCurrentArtist }) {
         };
 
         initializeArtist();
-    }, []);
+    }, [setCurrentArtist]);
 
     return (
-        <div className='artist-list flex flex-col gap-6 bg-slate-300 px-10 py-10 rounded-md text-slate-950'>
+        <div className='artist-list flex flex-col flex-shrink-0 gap-6 bg-gray-300 px-10 py-10 rounded-md text-gray-950'>
             {artists
                 ? artists.map((artist) => (
                       <Artist
