@@ -11,6 +11,8 @@ Clone the repo and `npm install`
 `npm run dev`
 
 -   "concurrently" runs frontend (vite) and backend (json-server) simultaneously
+-   Access Frontend at `http://localhost:5173/`
+-   Access Backend at `http://localhost:3000/artists` and `http://localhost:3000/songs`
 
 ## Project Structure and misc notes
 
