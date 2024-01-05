@@ -1,10 +1,15 @@
 import PropTypes from "prop-types";
 
-function Artist({ name, nationality, age, active }) {
+// active={currentArtist?.id === artist.id}
+
+function Artist({ artist, active, setCurrentArtist }) {
+    const { id, name, nationality, age } = artist;
+
     return (
-        <div
-            className={`bg-slate-200 text-slate-950 py-6 px-14 rounded-md shadow ${
-                active && "bg-green-200 border-green-500 border-solid border-2"
+        <button
+            onClick={() => setCurrentArtist(id)}
+            className={`bg-slate-200 text-slate-950 py-6 px-14 rounded-md shadow hover:border-green-500 focus:outline-none focus:border-green-500 ${
+                active && "bg-green-200 border-green-500 border-solid"
             }`}
         >
             <dl>
@@ -23,14 +28,15 @@ function Artist({ name, nationality, age, active }) {
                     <dd>{age || "Unknown"}</dd>
                 </div>
             </dl>
-        </div>
+        </button>
     );
 }
 
 Artist.propTypes = {
     name: PropTypes.string,
-    nationality: PropTypes.string,
-    age: PropTypes.string,
+    artist: PropTypes.object,
     active: PropTypes.bool,
+    setCurrentArtist: PropTypes.func,
 };
+
 export default Artist;
