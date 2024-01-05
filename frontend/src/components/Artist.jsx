@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 function Artist({ name, nationality, age, active }) {
     return (
         <div
-            className={`bg-slate-200 text-slate-950 py-6 px-14 rounded ${
+            className={`bg-slate-200 text-slate-950 py-6 px-14 rounded-md shadow ${
                 active && "active"
             }`}
         >
